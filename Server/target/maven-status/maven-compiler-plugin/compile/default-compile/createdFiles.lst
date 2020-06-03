@@ -1,0 +1,9 @@
+net\endoflame\server\docker\DockerAPI.class
+net\endoflame\server\docker\DockerTools.class
+net\endoflame\server\docker\ServersManager.class
+net\endoflame\server\tools\ConfigManager.class
+net\endoflame\server\tools\Server.class
+net\endoflame\server\docker\ServersManager$1.class
+net\endoflame\server\Main.class
+net\endoflame\server\com\ProxyCom.class
+net\endoflame\server\cache\RedisManager.class

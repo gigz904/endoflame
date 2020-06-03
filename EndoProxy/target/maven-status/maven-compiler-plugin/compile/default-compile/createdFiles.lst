@@ -1,0 +1,3 @@
+net\endoflame\proxy\manager\ConfigManager.class
+net\endoflame\proxy\EndoProxy.class
+net\endoflame\proxy\jedis\PubSub.class

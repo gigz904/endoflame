@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EndoSever:jar">
+    <output-path>C://artifacts/EndoSever_jar</output-path>
+    <root id="archive" name="EndoSever.jar">
+      <element id="module-output" name="EndoSever" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/docker-java-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-simple-1.1.1_1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jedis-3.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/docker-java-api-3.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
